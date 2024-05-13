@@ -1,2 +1,4 @@
-package modeles;public class Oeuvre {
+package modeles;
+
+public class Oeuvre {
 }
